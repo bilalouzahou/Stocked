@@ -1,0 +1,6 @@
+{
+  "name": "Ledger - Inventory Management System",
+  "description": "A complete inventory management system with live stock tracking, movement audit logs, low-stock alerts, category analytics, and authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
